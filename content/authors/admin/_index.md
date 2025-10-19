@@ -13,7 +13,7 @@ last_name: Лапшенкова
 pronouns: ''
 
 # Status emoji
-status: I know what it feels like
+status: ''
   icon: ''
 
 # Is this the primary user of the site?
