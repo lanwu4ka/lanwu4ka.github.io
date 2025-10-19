@@ -6,11 +6,11 @@ title: Любовь Лапшенкова
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Любовь
+last_name: Лапшенкова
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: ''
 
 # Status emoji
 status:
