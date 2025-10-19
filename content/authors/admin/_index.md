@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Любовь Лапшенкова
+title: Lyubov Lapshenkova
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Любовь
-last_name: Лапшенкова
+first_name: Lyubov
+last_name: Lapshenkova
 
 # Pronouns (optional)
 pronouns: ''
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ассистент кафедры математического моделирования и искусственного интеллекта
+role: phd student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
