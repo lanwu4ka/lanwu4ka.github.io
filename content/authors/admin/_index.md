@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alex Johnson
+title: Любовь Лапшенкова
 
 # Name pronunciation (optional)
 name_pronunciation: ''
