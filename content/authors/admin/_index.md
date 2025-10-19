@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Любовь Лапшенкова
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Любовь
+last_name: Лапшенкова
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: ''
 
 # Status emoji
-status:
-  icon: 🚀
+status: I know what it feels like
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Ассистент кафедры математического моделирования и искусственного интеллекта
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
